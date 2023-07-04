@@ -53,9 +53,9 @@ h1 {
   position: relative;
 }
 
- .dragged {
+/*  .dragged {
   opacity: 0.3;
-} 
+}  */
 
 .container .dropzone {
   width: 200px;
