@@ -53,9 +53,9 @@ h1 {
   position: relative;
 }
 
-/*  .dragged {
+ .dragged {
   opacity: 0.3;
-}  */
+} 
 
 .container .dropzone {
   width: 200px;
@@ -72,9 +72,9 @@ h1 {
   transition-duration: 0.2s;
 }
 
-.dragover {
+/* .dragover {
   opacity: 0.3;
-}
+} */
 
 .dropzone:hover {
   border: 2px solid black;
